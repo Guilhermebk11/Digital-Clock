@@ -1,5 +1,5 @@
 # Relogio Digital do Anthony
-Um simples relógio digital feito com HTML, CSS e JavaScript.
+## Um simples relógio digital feito com HTML, CSS e JavaScript.
 
 ### Visão Geral
 
