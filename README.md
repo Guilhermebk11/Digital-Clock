@@ -21,11 +21,6 @@ Copiar código: git clone https://github.com/Guilhermebk11/Relogio-digital-.git
 Abra o arquivo index.html em seu navegador.
 
 ### Estrutura do Projeto
-
-####index.html ---> Estrutura HTML do relógio.
+index.html ---> Estrutura HTML do relógio.
 style.css ---> Estilos CSS para o layout.
 script.js ---> Lógica JavaScript para atualizar a hora.
-
-### Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
