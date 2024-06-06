@@ -16,8 +16,8 @@ HTML, CSS, JavaScript
 ### Como Usar
 Clone o repositório: sh
 
-### Copiar código
-git clone https://github.com/Guilhermebk11/Relogio-digital-.git
+Copiar código: git clone https://github.com/Guilhermebk11/Relogio-digital-.git
+
 Abra o arquivo index.html em seu navegador.
 
 ### Estrutura do Projeto
