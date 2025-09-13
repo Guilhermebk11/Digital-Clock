@@ -1,7 +1,7 @@
 # Relogio Digital do Anthony
 ## Um simples relógio digital feito com HTML, CSS e JavaScript.
 
-### Visão Geral
+## Visão Geral
 
 Este projeto é um relógio digital que exibe a hora atualizada em tempo real.
 
